@@ -1,0 +1,16 @@
+{
+"name": "ssc666th",
+"theme": "ssc666th",
+"version": "5.2.2",
+"description": "ssc666th สมัครเว็บสล็อตเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+"keywords": [
+"ssc666th",
+"ssc666th เครดิตฟรี",
+"ssc666th ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ssc666th",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
